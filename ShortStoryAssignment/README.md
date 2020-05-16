@@ -7,6 +7,12 @@
 
 https://medium.com/@AkshayaNagarajan/natural-language-processing-advancements-by-deep-learning-a-survey-b53032c4b5bc?sk=3a04c2a53c60001996391270882d5bbc
 
+or
+
+https://medium.com/p/natural-language-processing-advancements-by-deep-learning-a-survey-b53032c4b5bc?source=email-875edaa3d986--writer.postDistributed&sk=3a04c2a53c60001996391270882d5bbc
+
+(Both referring same article)
+
 ## SlideShare Link:
 
 https://www.slideshare.net/AkshayaNagarajan10/natural-language-processing-advancements-by-deep-learning-a-survey-234077499
