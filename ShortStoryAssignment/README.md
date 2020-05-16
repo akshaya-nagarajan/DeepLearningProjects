@@ -1,6 +1,6 @@
 # Short Story Assignment
 
-### The Survey/Article discusses about the state-of-the-art models and accuracies for all the Natural Language Processing Tasks and Applications. It also briefly explains each of the core NLP Tasks.
+### The Survey/Article discusses about the state-of-the-art models and accuracies for all the Natural Language Processing Tasks and Applications. It also briefly explains all the core NLP Tasks with visualization.
 
 ## Medium Article Link:
 
