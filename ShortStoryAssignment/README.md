@@ -10,3 +10,47 @@ https://medium.com/@AkshayaNagarajan/natural-language-processing-advancements-by
 ## SlideShare Link:
 
 https://www.slideshare.net/AkshayaNagarajan10/natural-language-processing-advancements-by-deep-learning-a-survey-234077499
+
+## Github Link for Video Presentation:
+
+
+
+## NLP Tasks and Applications Discussed:
+  - Feature Representation:
+    - One Hot Encoding
+    - CBOW
+    - Word Embedding
+    - Characted Embedding
+  - Seq2Seq
+  - Parts-of-Speech
+  - Parsing
+    - Shallow Parsing
+    - Constituency Parsing
+    - Dependency Parsing
+  - Semantic Role Labeling
+  - Text Classification
+  - Information Extraction
+    - Named Entity Recognition
+    - Relation Extraction
+    - Coreference Resolution
+    - Event Extraction
+  - Sentiment Analysis
+    - Document-level Sentiment Analysis
+    - Sentence-level Sentiment Analysis
+    - Aspect-level Sentiment Analysis
+  - Machine Translation
+    - Neural Machine Translation
+    - End-to-End recurrent neural network for machine translation
+  - Question Answering
+    - Rule-based Question Answering
+    - Dynamic Memory Network
+  - Document Summarization
+    - Extractive Summarization
+    - Abstractive Summarization
+  - Dialogue Systems
+    - Task-based Systems
+    - Non-task-based Systems
+      - Retrieval-based
+      - Generative-based
+  
+  
