@@ -1,7 +1,5 @@
 # Assignment 2
 
-## Multiclass Classification Deployment Link
+## Multiclass Classification Deployment Link - DLImageClassification.ipynb
 https://food-classifier-akshaya.onrender.com/
 
-## Multiclass Classification file
-DLImageClassification.ipynb
