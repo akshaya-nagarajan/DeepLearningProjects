@@ -13,7 +13,7 @@ https://www.slideshare.net/AkshayaNagarajan10/natural-language-processing-advanc
 
 ## Github Link for Video Presentation:
 
-
+https://drive.google.com/file/d/1DW6sTnRQUrsvyxHcqRiUg213pCS_HxaN/view?usp=sharing
 
 ## NLP Tasks and Applications Discussed:
   - Feature Representation:
