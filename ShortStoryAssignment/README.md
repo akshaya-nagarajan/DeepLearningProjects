@@ -17,9 +17,6 @@ https://medium.com/p/natural-language-processing-advancements-by-deep-learning-a
 
 https://www.slideshare.net/AkshayaNagarajan10/natural-language-processing-advancements-by-deep-learning-a-survey-234077499
 
-## Drive Link for Video Presentation:
-
-https://drive.google.com/file/d/1DW6sTnRQUrsvyxHcqRiUg213pCS_HxaN/view?usp=sharing
 
 ## NLP Tasks and Applications Discussed:
   - Feature Representation:
