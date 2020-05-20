@@ -13,3 +13,6 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 1. https://tensorboard.dev/experiment/MGheONk3Qm2yXvG0WALsVw/#scalars
 2. https://tensorboard.dev/experiment/ll6KJrPMS2Wqc3c9JGClsA/
 3. https://tensorboard.dev/experiment/zOS2EHgeRUqalb1qW2ZqVw/#scalars
+
+
+Video Recording Link : https://drive.google.com/open?id=1jRx606jaa0_DVXIb2mGKzbasU2F63fGh
